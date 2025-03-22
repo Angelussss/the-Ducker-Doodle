@@ -1,0 +1,16 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b0fc9985-0bc9-404d-966b-8e5f25bf9e8c")
+	(paper "A4")
+	(title_block
+		(comment 1 "Angelo Perotti")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
