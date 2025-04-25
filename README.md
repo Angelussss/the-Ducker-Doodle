@@ -1,2 +1,2 @@
 # the-Ducker-Doodle
-a custom 110% reverse exploded custom mechanical keyboard
+a custom 110% reverse exploded mechanical keyboard
